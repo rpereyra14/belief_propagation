@@ -4,8 +4,8 @@ import Image
 """##########################################################################
 
 
-	THIS IMPLEMENTATION DOES NOT WORK BUT THIS IS MY FIRST ATTEMPT A BELIEF PROPAGATION ALGORITHM
-	THIS ALGORITHM OUTPUTS THE SAME IMAGE IS OUTPUTTED AFTER EVERY ITERATION.
+	This implementation does not work as of yet. This is my first attempt at a belief propagation algorithm.
+	The intended output is a sharper image but currently the same image just gets outputted.
 
 
 ##########################################################################"""
