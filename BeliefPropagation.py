@@ -5,7 +5,7 @@ import Image
 
 
 	This implementation does not work as of yet. This is my first attempt at a belief propagation algorithm.
-	The intended output is a sharper image but currently the same image just gets outputted.
+	The intended output is a color image but currently the same image just gets outputted.
 
 
 ##########################################################################"""
