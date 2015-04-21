@@ -1,4 +1,4 @@
-# belief_propagation
+# Belief Propagation
 
 + First attempt at a belief propagation algorithm for adding color to an input image.
 
